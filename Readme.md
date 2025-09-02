@@ -6,7 +6,7 @@ Each item has a **name**, **quantity**, and **price**.
 https://github.com/Ahm6dalii/Inventory-management-chat
 ---
 ## Demo Video 
-[Watch the demo](https://raw.githubusercontent.com/Ahm6dalii/Inventory-management-chat/main/docs/Inventorty%20managment%20chatbot%20demo.mp4)
+[Watch the demo](https://drive.google.com/file/d/1VsZDgkaiCVLJ93z4mGB_WYQgBksiDs16/view?usp=sharing)
 
 ## Features
 
