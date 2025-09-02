@@ -54,8 +54,8 @@ You can find it live [here](https://inventory-fnd-chatbot.vercel.app/) or run it
    Create a `.env` file inside **backend/** with:
    ```env
    PORT=5000
-   MONGO_URI=your-mongo-uri
-   GEMINI_API_KEY=your-gemini-api-key
+   MONGO_URI=mongodb+srv://ahmedalielian20_db_user:xyUoaSzDTQTtneJb@inventory-management-ch.9xbqeyl.mongodb.net/IMC?retryWrites=true&w=majority&appName=inventory-management-chatbot
+   GEMINI_API_KEY=AIzaSyAWVbqyeplc96MpRdgBBhJDWuTDZY3l4J4
    ```
 
 4. **Run the backend**
