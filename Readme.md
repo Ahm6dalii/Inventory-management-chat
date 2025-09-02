@@ -5,9 +5,8 @@ Each item has a **name**, **quantity**, and **price**.
 ## Repo
 https://github.com/Ahm6dalii/Inventory-management-chat
 ---
-## demo video
-link
----
+## Demo Video 
+[Watch the demo](https://raw.githubusercontent.com/Ahm6dalii/Inventory-management-chat/main/docs/Inventorty%20managment%20chatbot%20demo.mp4)
 
 ## Features
 
