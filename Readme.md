@@ -1,12 +1,9 @@
 # Inventory Management Chatbot
 
 A simple chatbot to manage inventory: add, update, remove, and view items.  
-Each item has a **name**, **quantity**, and **price**.
-## Repo
-https://github.com/Ahm6dalii/Inventory-management-chat
----
+
 ## Demo Video 
-[Watch the demo](https://drive.google.com/file/d/1VsZDgkaiCVLJ93z4mGB_WYQgBksiDs16/view?usp=sharing)
+[Watch the demo](https://drive.google.com/file/d/1JM-r1KukkzjtCm5zNHiCksZTGDkwKYDU/view?usp=sharing)
 
 ## Features
 
